@@ -1,0 +1,9 @@
+{
+    "name": "BetterInfo",
+    "version_number": "1.0.0",
+    "description": "Improves descriptions and provides more info",
+    "website_url": "https://discord.com/users/357116721812865025",
+    "dependencies": [
+        "BepInEx-BepInExPack_Stacklands-5.4.2100"
+    ]
+}

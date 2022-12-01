@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/BetterInfo.csproj": {}
+  },
+  "projects": {
+    "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/BetterInfo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/BetterInfo.csproj",
+        "projectName": "BetterInfo",
+        "projectPath": "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/BetterInfo.csproj",
+        "packagesPath": "/home/vadym/.nuget/packages/",
+        "outputPath": "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/NuGet.Config",
+          "/home/vadym/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.*, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2020.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

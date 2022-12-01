@@ -1,0 +1,10 @@
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.csproj.AssemblyReference.cache
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.GeneratedMSBuildEditorConfig.editorconfig
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.AssemblyInfoInputs.cache
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.AssemblyInfo.cs
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.csproj.CoreCompileInputs.cache
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/bin/Debug/netstandard2.0/BetterInfo.deps.json
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/bin/Debug/netstandard2.0/BetterInfo.dll
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/bin/Debug/netstandard2.0/BetterInfo.pdb
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.dll
+/media/SteamGames/SteamLibrary/steamapps/common/Stacklands/BetterInfo/obj/Debug/netstandard2.0/BetterInfo.pdb
